@@ -1,2 +1,48 @@
-# cpp-practice
-C++ practice — problems, programs &amp; mini projects
+<h1 align="center">C++ Practice 🚀</h1>
+
+<p align="center">
+  My C++ learning journey — from basics to advanced, one commit at a time.
+</p>
+
+---
+
+## 👨‍💻 About
+
+This repo documents my C++ learning as a BSCS student.  
+I practice daily and push code regularly to build consistency.
+
+---
+
+## 📂 Structure
+
+```
+cpp-practice/
+├── 01_basics/        # Variables, loops, conditions, functions
+├── 02_oop/           # Classes, objects, inheritance
+├── 03_dsa/           # Data structures & algorithms
+└── 04_problems/      # Problem solving practice
+```
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Repo setup
+- [ ] Basics complete
+- [ ] OOP complete
+- [ ] DSA fundamentals
+- [ ] Problem solving (LeetCode / HackerRank)
+
+---
+
+## 🛠️ Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/moin-uddin-shah">LinkedIn</a> •
+  <a href="https://github.com/themoinuddin">GitHub</a>
+</p>
