@@ -28,7 +28,7 @@ cpp-practice/
 ## 🗺️ Roadmap
 
 - [x] Repo setup
-- [ ] Basics complete
+- [x] Basics complete
 - [ ] OOP complete
 - [ ] DSA fundamentals
 - [ ] Problem solving (LeetCode / HackerRank)
