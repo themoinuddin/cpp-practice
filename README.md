@@ -29,7 +29,7 @@ cpp-practice/
 
 - [x] Repo setup
 - [x] Basics complete
-- [ ] OOP complete
+- [x] OOP complete
 - [ ] DSA fundamentals
 - [ ] Problem solving (LeetCode / HackerRank)
 
